@@ -1,0 +1,75 @@
+# Stay Safe Online — Prevention Checklist
+### For College Students in India
+
+*Prepared as part of Cybercrime Awareness Task 5 | Helpline: 1930 | Portal: cybercrime.gov.in*
+
+---
+
+## ✅ Your Personal Cybersecurity Checklist
+
+---
+
+### 🔐 Account & Password Safety
+
+1. **Use strong, unique passwords for every account.**  
+   A good password mixes uppercase, lowercase, numbers, and symbols (e.g., `Mango@2024!`). Never use your name, DOB, or "123456". Use a password manager if needed.
+
+2. **Enable Two-Factor Authentication (2FA) on all important accounts.**  
+   This includes Gmail, Instagram, and your banking app. Even if someone steals your password, they can't log in without the second code.
+
+3. **Never share your OTP (One-Time Password) with anyone — ever.**  
+   No bank, telecom company, or government agency will ever ask for your OTP over a call or message. If someone does, it's a scam. End the call immediately.
+
+---
+
+### 💳 Financial & UPI Safety *(Critical)*
+
+4. **Understand the difference between a UPI Collect Request and a payment.**  
+   Entering your UPI PIN means money is going OUT of your account. If someone says "enter your PIN to receive money" — that is a lie. You never need your PIN to receive funds.
+
+5. **Never scan a QR code sent by a stranger to "receive" payment.**  
+   Scanning a QR code and entering your PIN sends money to them. Legitimate buyers don't need you to scan anything to pay you.
+
+6. **Set a daily transaction limit on your UPI app and bank account.**  
+   Most banking apps allow you to set limits (e.g., max ₹5,000/day for unknown recipients). This caps your loss in case of fraud.
+
+7. **Verify before transferring — always call back on an official number.**  
+   If you get a call from "bank customer care," hang up and call your bank's official number (printed on your card or their website) to verify.
+
+---
+
+### 📱 Social Media & Online Behaviour
+
+8. **Don't accept friend requests or DMs from strangers offering jobs, scholarships, or gifts.**  
+   These are common entry points for social engineering scams. If an offer sounds too good to be true, it almost certainly is.
+
+9. **Check app permissions before installing anything.**  
+   Many fake apps request access to your SMS (to steal OTPs) or camera. Only download apps from the official Google Play Store or App Store, and review permissions carefully.
+
+10. **Think before you click — check URLs before entering any login or payment details.**  
+    Fake websites often look identical to real ones but have slight misspellings (e.g., `sbi-bank-login.com` instead of `sbi.co.in`). Always look for the padlock icon and `.gov.in` or `.co.in` domains for Indian services.
+
+---
+
+### 🚨 If Something Goes Wrong
+
+11. **Act fast — call 1930 within minutes of any financial fraud.**  
+    The National Cybercrime Helpline **1930** can initiate a "freeze" on fraudulent transactions if you call quickly. Every minute matters.
+
+12. **File a formal complaint at [cybercrime.gov.in](https://cybercrime.gov.in).**  
+    This is India's official National Cyber Crime Reporting Portal. You can report financial fraud, harassment, sextortion, and more. Keep all screenshots, call recordings, and transaction IDs as evidence.
+
+---
+
+## 📞 Key Contacts
+
+| Resource | Details |
+|---|---|
+| National Cyber Crime Helpline | **1930** |
+| Online Reporting Portal | **cybercrime.gov.in** |
+| RBI Ombudsman (Banking Issues) | cms.rbi.org.in |
+| Emergency (Police) | **100** |
+
+---
+
+*Remember: Staying safe online is not about fear — it's about being informed. Share this checklist with your family and friends.*
